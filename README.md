@@ -39,5 +39,3 @@
 <img align="left" src="https://raw.githubusercontent.com/id1945/es5-vs-es2015/main/ES6%20Javascript%20Standard-40.jpg">
 <img align="left" src="https://raw.githubusercontent.com/id1945/es5-vs-es2015/main/ES6%20Javascript%20Standard-41.jpg">
 <img align="left" src="https://raw.githubusercontent.com/id1945/es5-vs-es2015/main/ES6%20Javascript%20Standard-42.jpg">
-
-
